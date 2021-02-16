@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+//import 'package:pages/screens/Screen2.dart'; // Dont actually need this since we are using an named route. 
 
 class Screen1 extends StatelessWidget {
   @override

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:pages/screens/Screen1.dart';
+import 'package:pages/screens/Screen1.dart'; // need to import this since we are using an unnamed route
+
 class Screen2 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
